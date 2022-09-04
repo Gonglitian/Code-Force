@@ -1,5 +1,3 @@
-# Code-Force
-[TOC]
 # 通用面积计算器
 
 ## 1. 团队分工
@@ -16,9 +14,26 @@
 + [项目地址]([Gonglitian/Code-Force (github.com)](https://github.com/Gonglitian/Code-Force))
 
 # 3. 使用方法
+## 1.环境配置
++ python版本： 3.8.6
++ 外部依赖库：
+    + PyQt5 5.15.7
+## 2.外部依赖库的安装
++ 在终端输入
 
-+ 本软件采用python+PyQt5开发
-+ 依赖环境 
-    + python版本： 3.8.6
-    + 库：
-        + PyQt5 5.15.7
+  ```python
+  pip install PyQt5
+  ```
+
+## 3. 程序运行
+
++ 安装完python和PyQt后，用python解释器运行area.py文件
+## 4. 运行效果
+
+![img](./imgs/1.png)
+
+![img](./imgs/2.png)
+
+![img](./imgs/3.png)
+
+![img](./imgs/4.png)
